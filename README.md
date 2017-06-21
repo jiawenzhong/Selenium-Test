@@ -38,3 +38,4 @@ From then, you could modify the generated code from the IDE in your own way.
 Use HtmlUnitDriver, initialize WebDriver to HtmlUnitDriver, and the test will run without any 
 pop ups. 
 
+# SeleniumTest
