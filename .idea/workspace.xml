@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa241909-f259-44e8-a3ad-e4677abe1001" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/SeleniumTest/VuduSignInTesting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/mysite/selenium/HomePage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/mysite/selenium/SeleniumHQTest.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumFireFoxTutorial1.java" afterPath="$PROJECT_DIR$/src/main/java/SeleniumTest/BingToSeleniumTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/SeleniumTest/SeleniumFireFoxTutorial1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/SeleniumTest/VuduSignInTesting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/mysite/selenium/HomePage.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/mysite/selenium/SeleniumHQTest.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/SeleniumTest/SeleniumTest.class" afterPath="$PROJECT_DIR$/build/classes/main/SeleniumTest/SeleniumTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/SeleniumTest/BingToSeleniumTest.java" afterPath="$PROJECT_DIR$/src/main/java/SeleniumTest/BingToSeleniumTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumTest.java" afterPath="$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,28 +33,30 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="31" selection-end-column="98" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SeleniumTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SeleniumTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="493">
+              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BingToSeleniumTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BingToSeleniumTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/BingToSeleniumTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="-323">
+              <caret line="32" column="59" lean-forward="false" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -365,8 +367,8 @@
         <option value="$PROJECT_DIR$/src/main/java/SeleniumTest/VuduSignInTesting.java" />
         <option value="$PROJECT_DIR$/src/main/java/SeleniumTest/git-hub-selenium-test.java" />
         <option value="$PROJECT_DIR$/src/main/java/SeleniumTest/GitHubSeleniumTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SeleniumTest/BingToSeleniumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumFireFoxTutorial1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SeleniumTest/BingToSeleniumTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumTest.java" />
       </list>
     </option>
@@ -393,8 +395,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -468,10 +468,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-testing" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -493,7 +495,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BingToSeleniumTest">
+  <component name="RunManager" selected="Application.SeleniumTest">
     <configuration default="false" name="SeleniumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -831,11 +833,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.BingToSeleniumTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.GitHubSeleniumTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.GitHubSeleniumTest.testGitHubSelenium" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.BingToSeleniumTest.testBingToSelenium" />
-        <item index="4" class="java.lang.String" itemvalue="Application.SeleniumTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SeleniumTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BingToSeleniumTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.GitHubSeleniumTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.GitHubSeleniumTest.testGitHubSelenium" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.BingToSeleniumTest.testBingToSelenium" />
       </list>
     </recent_temporary>
   </component>
@@ -850,22 +852,30 @@
       <option name="presentableId" value="Default" />
       <updated>1497966883568</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1498073787182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1498073787182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BingToSeleniumTest - 2017.06.21 at 15h 20m 13s.xml">
-      <configuration name="BingToSeleniumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BingToSeleniumTest - 2017.06.21 at 15h 20m 40s.xml">
-      <configuration name="BingToSeleniumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BingToSeleniumTest - 2017.06.21 at 15h 21m 26s.xml">
-      <configuration name="BingToSeleniumTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BingToSeleniumTest - 2017.06.21 at 15h 21m 46s.xml">
       <configuration name="BingToSeleniumTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="BingToSeleniumTest - 2017.06.21 at 15h 24m 35s.xml">
+      <configuration name="BingToSeleniumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BingToSeleniumTest - 2017.06.21 at 15h 43m 50s.xml">
+      <configuration name="BingToSeleniumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BingToSeleniumTest - 2017.06.21 at 15h 44m 21s.xml">
+      <configuration name="BingToSeleniumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BingToSeleniumTest - 2017.06.21 at 15h 45m 01s.xml">
       <configuration name="BingToSeleniumTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="BingToSeleniumTest_testBingToSelenium - 2017.06.21 at 15h 19m 46s.xml">
@@ -922,6 +932,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -931,6 +945,32 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/BingToSeleniumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -943,7 +983,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
           <caret line="67" column="38" lean-forward="false" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -955,76 +997,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/GitHubSeleniumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mysite/selenium/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="87" lean-forward="false" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/GitHubSeleniumTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mysite/selenium/HomePage.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/git-hub-selenium-test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/VuduSignInTesting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/VuduSignInTesting.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/GitHubSeleniumTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumFireFoxTutorial1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mysite/selenium/SeleniumHQTest.java" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/GitHubSeleniumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumFireFoxTutorial1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="17" column="9" lean-forward="false" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mysite/selenium/SeleniumHQTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="350">
+          <caret line="30" column="3" lean-forward="true" selection-start-line="30" selection-start-column="3" selection-end-line="31" selection-end-column="98" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/BingToSeleniumTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="-323">
+          <caret line="32" column="59" lean-forward="false" selection-start-line="32" selection-start-column="59" selection-end-line="32" selection-end-column="59" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SeleniumTest/SeleniumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
