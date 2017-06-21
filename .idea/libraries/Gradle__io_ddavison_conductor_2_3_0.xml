@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ddavison:conductor:2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ddavison/conductor/2.3.0/57c9b8826dd15152c2a60762b5c8b114c0878228/conductor-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ddavison/conductor/2.3.0/2672711723e11a29ee6b13732fa5cc2bbeafaa6f/conductor-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
